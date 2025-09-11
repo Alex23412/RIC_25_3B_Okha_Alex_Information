@@ -19,4 +19,5 @@
 [text](http:/pstu.ru/ "text")
 [text][описание]
 
+![картинки](https://cdn.fishki.net/upload/post/2020/02/04/3221227/ef5fc5a3c47984895e23dd4611900524.jpg "описание")
 
